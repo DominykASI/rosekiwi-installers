@@ -1,0 +1,5 @@
+1c14ba2616b6b84c4ea73b36541c46db26320988a05db7a6002ee3e0eb506bb8  Rosekiwi-0.2.0-Windows.exe
+e0fcbc6beef01e1c44d8380874f2acf2e5d23056d53b19ba172c5ae6e335676d  Rosekiwi-0.2.0-Windows-Setup.exe
+0213f59f1923a90b2ec8a494bbbfe35e9630725d534a6c962687b0790ade18f5  Rosekiwi-0.2.0-Linux.AppImage
+3b5ff0950c1989ce95845cb16eb6badd2e1a591832e198231b335fdadba9fb6b  Rosekiwi-0.2.0-Linux.deb
+f2d95b2b3582f1c670cf9d29b95fe4e05acf89462539c069e304d51734584f29  Rosekiwi-0.2.0-Linux.rpm
